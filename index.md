@@ -5,6 +5,6 @@ a list
 * first thing
 * second thing
 
-an ordered lis
+an ordered list
 1. one
 2. two
